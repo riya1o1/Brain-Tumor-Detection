@@ -27,9 +27,8 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 - Loss: Binary Crossentropy
 
 ## 📊 Results
-- **Training Accuracy**: ~98%
-- **Validation Accuracy**: ~95%
-- Uses EarlyStopping to avoid overfitting
+Screenshot 2025-04-13 183231.png
+Screenshot 2025-04-13 183258.png
 
 ## ▶️ How to Run
 1. Open the [Colab Notebook](https://colab.research.google.com/drive/1etk6n3h0Jpa6A10AVFFrXn2lEe9H8SHC#scrollTo=R2UvH8_Fw2hW)
