@@ -28,6 +28,7 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 
 ## 📊 Results
 Screenshot 2025-04-13 183231.png
+
 Screenshot 2025-04-13 183258.png
 
 ## ▶️ How to Run
