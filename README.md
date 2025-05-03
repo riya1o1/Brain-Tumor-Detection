@@ -28,8 +28,10 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 
 ## 📊 Results
 Screenshot 2025-04-13 183231.png
+![image](https://github.com/user-attachments/assets/f880387f-5d1a-4daa-a45e-94ee05b15eee)
 
 Screenshot 2025-04-13 183258.png
+![image](https://github.com/user-attachments/assets/5d4e65c0-f381-41a5-805a-688f9b7e4667)
 
 ## ▶️ How to Run
 1. Open the [Colab Notebook](https://colab.research.google.com/drive/1etk6n3h0Jpa6A10AVFFrXn2lEe9H8SHC#scrollTo=R2UvH8_Fw2hW)
