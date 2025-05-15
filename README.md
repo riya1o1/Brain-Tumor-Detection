@@ -15,7 +15,7 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 - Google Colab
 
 ## 📁 Dataset
-- [Google Drive Dataset](https://drive.google.com/drive/u/0/folders/1IkGdDJMzTyT1cmkfxUxrQnE7hKA4FCVf)
+- https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 - Contains MRI images labeled as `Tumor` and `No Tumor`
 - Includes preprocessing steps: resizing, normalization, and augmentation
 
