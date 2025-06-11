@@ -39,3 +39,11 @@ Screenshot 2025-04-13 183258.png
 3. Run all cells step by step
 4. Model will train and show evaluation metrics
 
+## 📫 Contact
+
+**Riya Singh**  
+📧 mailriya1o1@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/riya1o1)
+
+⭐ *Star this repo to support and stay updated!*
+
