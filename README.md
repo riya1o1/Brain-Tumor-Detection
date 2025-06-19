@@ -41,8 +41,7 @@ Screenshot 2025-04-13 183258.png
 
 ## 👥 Contributors
 
-Thanks to these wonderful people:
-Nidha Hussain  [github link](https://github.com/NidhaHussain) 
+[Nidha Hussain](https://github.com/NidhaHussain) 
 
 
 ## 📫 Contact
