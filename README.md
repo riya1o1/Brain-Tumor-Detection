@@ -39,6 +39,12 @@ Screenshot 2025-04-13 183258.png
 3. Run all cells step by step
 4. Model will train and show evaluation metrics
 
+## 👥 Contributors
+
+Thanks to these wonderful people:
+Nidha Hussain  [github link](https://github.com/NidhaHussain) 
+
+
 ## 📫 Contact
 
 **Riya Singh**  
